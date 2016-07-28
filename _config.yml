@@ -1,11 +1,11 @@
 # Site settings
-title: My Blog
-email: coolwebconfs@gmail.com
+title: travel blog
+email: funtravel@gmail.com
 description: My simple blog.
-baseurl: ""
-url: ""
-twitter_username: 
-avatar: "" # Set footer avatar
+baseurl: "/my-theme"
+
+twitter_username:vips 
+avatar: "http://placeimg.com/300/300/people" # Set footer avatar
 paginate: 3
 
 # Build settings
@@ -19,8 +19,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "My Author" # Set default author name
-      categories: "cats"
+      author: "Vipin Mohan" # Set default author name
+      categories: "places"
       layout: "post"
       comments: true
   -
